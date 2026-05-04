@@ -2,5 +2,8 @@
 
 int main()
 {
-    //teste
+    printf("Hello world!!");
+    //A PARTIR DESSA VERSAO COMEÇAM OS CODIGOS
+
+    return 0;
 }
